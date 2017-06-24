@@ -1,0 +1,48 @@
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2012 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      Synthview Type Design
+ * License URL: http://www.fontspring.com/fflicense/synthview
+ *
+ *
+ */
+
+@font-face {
+    font-family: 'NovecentowideNormalRegular';
+    src: url('fonts/normal/Novecentowide-Normal-webfont.eot');
+    src: url('fonts/normal/Novecentowide-Normal-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/normal/Novecentowide-Normal-webfont.woff') format('woff'),
+         url('fonts/normal/Novecentowide-Normal-webfont.ttf') format('truetype'),
+         url('fonts/normal/Novecentowide-Normal-webfont.svg#NovecentowideNormalRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'NovecentowideUltraLightBold';
+    src: url('fonts/medium/Novecentowide-Medium-webfont.eot');
+    src: url('fonts/medium/Novecentowide-Medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/medium/Novecentowide-Medium-webfont.woff') format('woff'),
+         url('fonts/medium/Novecentowide-Medium-webfont.ttf') format('truetype'),
+         url('fonts/medium/Novecentowide-Medium-webfont.svg#NovecentowideUltraLightBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
